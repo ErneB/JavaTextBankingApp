@@ -1,0 +1,41 @@
+[
+  {
+    "Zip": 33133,
+    "Account ID": 1001,
+    "Stree Address": null,
+    "State": "Fl",
+    "Last Charged": "27-Mar-2019",
+    "First Name": "Ernesto",
+    "Date of Birth": "07-22-1994",
+    "City": "Miami",
+    "Last Name": "Barrios",
+    "Balance": 62088.875,
+    "Date Created": "26-Feb-2019"
+  },
+  {
+    "Zip": 33040,
+    "Account ID": 1003,
+    "Stree Address": null,
+    "State": "Fl",
+    "Last Charged": "26-Feb-2019",
+    "First Name": "Kristin",
+    "Date of Birth": "01-15-1995",
+    "City": "Key West",
+    "Last Name": "O'Neill",
+    "Balance": 74947.5,
+    "Date Created": "26-Feb-2019"
+  },
+  {
+    "Zip": 33133,
+    "Account ID": 1002,
+    "Stree Address": null,
+    "State": "Fl",
+    "Last Charged": "26-Feb-2019",
+    "First Name": "James",
+    "Date of Birth": "07-22-1994",
+    "City": "Miami",
+    "Last Name": "Harrison",
+    "Balance": 149985.0,
+    "Date Created": "26-Feb-2019"
+  }
+]
